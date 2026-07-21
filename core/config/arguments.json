@@ -1,0 +1,26 @@
+{
+    "names": [
+        "Pop",
+        "Rock",
+        "Metal",
+        "Classic",
+        "Jazz",
+        "EDM",
+        "Disco"
+    ],
+    "paths": [
+        "c:\\Users\\YaroslavIshkov\\YellowWave\\icons\\playlists\\1-pop.png",
+        "c:\\Users\\YaroslavIshkov\\YellowWave\\icons\\playlists\\2-rock.png",
+        "c:\\Users\\YaroslavIshkov\\YellowWave\\icons\\playlists\\3-metal.png",
+        "c:\\Users\\YaroslavIshkov\\YellowWave\\icons\\playlists\\4-classic.png",
+        "c:\\Users\\YaroslavIshkov\\YellowWave\\icons\\playlists\\5-jazz.png",
+        "c:\\Users\\YaroslavIshkov\\YellowWave\\icons\\playlists\\7-edm.png",
+        "c:\\Users\\YaroslavIshkov\\YellowWave\\icons\\playlists\\8-disco.png"
+    ],
+    "loaded": true,
+    "copied": [],
+    "favorites": [],
+    "current": 0,
+    "liked": false,
+    "music": "c:\\Users\\YaroslavIshkov\\YellowWave\\Favorites"
+}
