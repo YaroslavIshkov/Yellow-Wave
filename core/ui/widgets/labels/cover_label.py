@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 YaroslavIshkov
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 import mutagen
 from pathlib import Path
 from typing import Optional, Union

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 YaroslavIshkov
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 from pathlib import Path
 from functools import lru_cache
 from typing import Optional

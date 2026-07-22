@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 YaroslavIshkov
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 from PyQt5.QtWidgets import (QMainWindow, QDialog, QFrame, QVBoxLayout, 
     QHBoxLayout, QLineEdit, QLabel, QPushButton, QSizePolicy)
 from PyQt5.QtCore import Qt

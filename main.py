@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 YaroslavIshkov
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 import sys
 from functools import lru_cache
 from typing import Optional
@@ -11,9 +15,9 @@ class MainWindow(QMainWindow):
         super().__init__()
         self.app = app
         self.WIDTH = 1360
-        self.HEIGHT = 200
+        self.HEIGHT = 290
         self.PADX = -680
-        self.PADY = 125
+        self.PADY = 65
         self.setWindowFlag(Qt.FramelessWindowHint)
         self.setAttribute(Qt.WA_TranslucentBackground)
         self.is_fullscreen = False

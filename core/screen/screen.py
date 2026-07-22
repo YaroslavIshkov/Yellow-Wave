@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 YaroslavIshkov
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 from typing import Optional
 from PyQt5.QtWidgets import QApplication, QMainWindow
 

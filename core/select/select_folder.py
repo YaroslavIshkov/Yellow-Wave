@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 YaroslavIshkov
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 from pathlib import Path
 from PyQt5.QtWidgets import (QDialog, QFrame, QMainWindow, QVBoxLayout, 
     QListWidget, QListWidgetItem, QLabel, QHBoxLayout, QPushButton, 
