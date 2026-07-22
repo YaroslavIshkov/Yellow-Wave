@@ -12,3 +12,4 @@ Pygame версии 2.6.1 и выше.
 Операционная система: любая, на ваш выбор! Windows, MacOS, Linux.
 
 Установить библиотеки можно одной командой: pip install -r requirements.txt
+# Yellow-Wave
