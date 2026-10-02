@@ -265,4 +265,3 @@ class Application:
         data = self.json_manager.load_file()
         data["current"] = ""
         self.json_manager.save_file(data)
-
