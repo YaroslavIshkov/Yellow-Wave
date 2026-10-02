@@ -19,6 +19,7 @@
 - 🚀 **Портативная сборка** — `.exe` работает без Python
 
 ![Скриншот с треком](docs/screenshot-track.png)
+
 ![Скриншот с настройками](docs/screenshot-settings.png)
 
 ## 📦 Установка
