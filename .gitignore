@@ -18,3 +18,7 @@ config/arguments.json
 Favorites/
 Playlists/
 covers/
+build/
+dist/
+logs/
+config/settings.ini
